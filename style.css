@@ -1,9 +1,18 @@
 body {
-    background-color: lightblue;
+    background-color: #414141;
 }
 
-p1 {
+.story {
     font-family: Arial;
-    font-size: 40px;
-    color: burlywood;
+    font-size: 20px;
+    color: #FA4102;
+}
+
+.user {
+  font-family: Arial;
+  font-size: 25px;
+}
+
+.userborder {
+  background-color: #A4A3A3;
 }
